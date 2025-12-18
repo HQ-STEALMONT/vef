@@ -1,6 +1,6 @@
 {
     "s": false,
-    "ips": ["127.0.0.1", "::1", "localhost", "88.20.28.151"],
+    "ips": [""],
     "t": "Actualización del Sistema || TESTTT",
     "m": "Estamos realizando mejoras importantes en la plataforma. || TST222",
     "sm": "Tiempo estimado: 3 horas. Gracias por su paciencia. || TEST44"

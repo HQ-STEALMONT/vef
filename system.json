@@ -1,4 +1,7 @@
-
 {
-    "active": true
+    "s": false,
+    "ips": ["127.0.0.1"],
+    "t": "Actualización del Sistema || TESTTT",
+    "m": "Estamos realizando mejoras importantes en la plataforma. || TST222",
+    "sm": "Tiempo estimado: 3 horas. Gracias por su paciencia. || TEST44"
 }
